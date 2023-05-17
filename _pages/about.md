@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I have been an assistant professor at Tokyo Institute of Technology since April 1st, 2023. My research covers cryptanalysis of hash functions, stream ciphers for 5G/6G systems, block ciphers, permutation-based primitives, MPC/FHE/ZK-friendly ciphers, and so on. Currently, I am especially interested in collision attacks on SHA-2, RIPEMD-160 and algebraic cryptanalysis of MPC/FHE/ZK-friendly ciphers.
+I have been an assistant professor at Tokyo Institute of Technology since April 1st, 2023. My research covers cryptanalysis of hash functions, stream ciphers for 5G/6G systems, block ciphers, permutation-based primitives, MPC/FHE/ZK-friendly ciphers, and so on. Currently, I am especially interested in SHA-2, RIPEMD-160 and algebraic attacks on MPC/FHE/ZK-friendly ciphers.
 
 Latest news
