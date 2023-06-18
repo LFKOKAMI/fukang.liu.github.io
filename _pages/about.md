@@ -17,9 +17,10 @@ I have been an assistant professor at Tokyo Institute of Technology since April 
  - permutation-based primitives
  
  Currently, I am especially interested in 
- - SHA-2
- - RIPEMD-160 
  - algebraic attacks
+ - SHA-3
+ - SHA-2
+ - RIPEMD-160
  
 # Latest news
 
