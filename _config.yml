@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fukang Liu / Fukang's Homepage"
+title                    : "Fukang Liu"
 title_separator          : "-"
 name                     : &name "Fukang Liu"
 description              : &description "personal description"
