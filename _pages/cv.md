@@ -17,16 +17,16 @@ Education
 Work experience
 ======
 * Apr. 2020 - Mar. 2022: Specially Appointed Researcher
-  * University og Hyogo
+  * University of Hyogo, Hyogo, Japan
   * Duties included: Research on symmetric-key cryptanalysis and design
   * Supervisor: Takanori Isobe
 
 * Apr. 2021 - Mar. 2023: Specially Appointed Lecturer
-  * University of Hyogo
+  * University of Hyogo, Hyogo, Japan
   * Duties included: Research on symmetric-key cryptanalysis and design
 
 * Apr. 2023 - Now: Assistant Professor
-  * Tokyo Institue of Technology
+  * Tokyo Institue of Technology, Tokyo, Japan
   * Duties included: Research, co-supervising and teaching
   
 Awards
