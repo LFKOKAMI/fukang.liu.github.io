@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Security, Donghua University, Shanghai, China, 2017
+* M.S. in Software Engineering, East China Normal University, China, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr. 2020 - Mar. 2022: Specially Appointed Researcher
+  * University og Hyogo
+  * Duties included: Research on symmetric-key cryptanalysis and design
+  * Supervisor: Takanori Isobe
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr. 2021 - Mar. 2023: Specially Appointed Lecturer
+  * University of Hyogo
+  * Duties included: Research on symmetric-key cryptanalysis and design
+
+* Apr. 2023 - Now: Assistant Professor
+  * Tokyo Institue of Technology
+  * Duties included: Research, co-supervising and teaching
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2022, Fast Software Encryption 2022 (FSE 2022) Best paper award
+* 2022, 第七回「辻井重男セキュリティ論文賞」
+
 
 Publications
 ======
