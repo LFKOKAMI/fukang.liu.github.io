@@ -53,7 +53,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
 * FSE 2024, program committee
 * ASIACRYPT 2023, program committee
