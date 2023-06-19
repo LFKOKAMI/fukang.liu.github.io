@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S.  in Information Security, Donghua University, Shanghai, China, 2017
-* Ph.D. in Software Engineering, East China Normal University, China, 2021
+* Ph.D. in Software Engineering, East China Normal University, Shanghai, China, 2021
 
 Work experience
 ======
@@ -31,7 +31,7 @@ Work experience
   
 Awards
 ======
-* 2022, Fast Software Encryption 2022 (FSE 2022) Best paper award
+* 2022, Fast Software Encryption 2022 (FSE 2022) best paper award
 * 2022, 第七回「辻井重男セキュリティ論文賞」
 
 
@@ -55,4 +55,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* FSE 2024, program committee
+* ASIACRYPT 2023, program committee
+* FSE 2023, general chair in Kobe
