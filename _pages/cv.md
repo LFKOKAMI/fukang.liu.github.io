@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information Security, Donghua University, Shanghai, China, 2017
-* M.S. in Software Engineering, East China Normal University, China, 2021
+* B.S.  in Information Security, Donghua University, Shanghai, China, 2017
+* Ph.D. in Software Engineering, East China Normal University, China, 2021
 
 Work experience
 ======
