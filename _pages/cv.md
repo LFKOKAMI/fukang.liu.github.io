@@ -58,5 +58,4 @@ Service
 * FSE 2024, program committee
 * ASIACRYPT 2023, program committee
 * FSE 2023, general chair in Kobe
-* Indocrypt 2023, Program committe
-* * Indocrypt 2022, Program committe
+* Indocrypt 2023/2022, Program committe
