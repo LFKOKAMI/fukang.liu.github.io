@@ -21,7 +21,7 @@ Work experience
   * Duties included: Research on symmetric-key cryptanalysis and design
   * Supervisor: Takanori Isobe
 
-* Apr. 2021 - Mar. 2023: Specially Appointed Lecturer
+* Apr. 2022 - Mar. 2023: Specially Appointed Lecturer
   * University of Hyogo, Hyogo, Japan
   * Duties included: Research on symmetric-key cryptanalysis and design
 
