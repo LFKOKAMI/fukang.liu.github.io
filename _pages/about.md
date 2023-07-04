@@ -24,6 +24,10 @@ I have been an assistant professor at Tokyo Institute of Technology since April 
  
 # Latest news
 
+July, 2023: A paper was accepted to [SAC 2023](https://sac-workshop.github.io/sac-2023/index.html).
+
+1. Xiaorui Yu, Fukang Liu, Gaoli Wang, Siwei Sun, Willi Meier: [A Closer Look at the S-box: Deeper Analysis of Round-Reduced ASCON-HASH](https://eprint.iacr.org/2023/865.pdf).
+
 June, 2023: A paper was accepted to [CRYOTO 2023](https://crypto.iacr.org/2023/).
 
 1. Fukang Liu, Lorenzo Grassi, Clémence Bouvier, Willi Meier, Takanori Isobe: [Coefficient Grouping for Complex Affine Layers](https://eprint.iacr.org/2023/782.pdf)
